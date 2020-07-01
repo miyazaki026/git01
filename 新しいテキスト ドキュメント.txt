@@ -1,4 +1,8 @@
 saaaaaaaaaaaaaaaaaas
 test
 tttttt
+<<<<<<< HEAD
 abc
+=======
+wwwwww
+>>>>>>> develop/test
